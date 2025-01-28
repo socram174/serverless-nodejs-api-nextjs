@@ -1,0 +1,8 @@
+{
+    "rewrites":[
+        {
+            "source": "/api/leads",
+            "destination": "https://u1ykquahie.execute-api.us-east-2.amazonaws.com/leads"
+        }
+    ]
+}
